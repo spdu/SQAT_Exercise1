@@ -208,3 +208,11 @@ UnitTestCaseAction 1474464643574 TestBowling.java FAIL
 UnitTestSessionAction 1474464643574 TestBowling.java FAIL
 RefactoringAction 1474464650194 TestBowling.java REMOVE testGame_10frames_spare() METHOD
 EditAction 1474464657444 TestBowling.java 2600 4 49 5
+UnitTestCaseAction 1474464663468 TestBowling.java FAIL
+UnitTestSessionAction 1474464663468 TestBowling.java FAIL
+FileOpenedAction 1474464670008 Frame.java 830 6 8 0
+UnitTestCaseAction 1474464711721 TestBowling.java FAIL
+UnitTestSessionAction 1474464711721 TestBowling.java FAIL
+UnitTestCaseAction 1474464772285 TestBowling.java FAIL
+UnitTestSessionAction 1474464772285 TestBowling.java FAIL
+EditAction 1474464974027 Frame.java 854 6 8 0
