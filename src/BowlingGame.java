@@ -31,7 +31,7 @@ public class BowlingGame {
 		{
 			if (frames.get(i).isSpare()){
 				for (int j = 0; j < counter; j++) {
-					score += frames.get(i+j).score();
+					score += 10 + frames.get(i+j).score();
 				}
 			
 			}
