@@ -22,8 +22,9 @@ public class Frame {
 		int score = 0;
 		if (firstThrow == 10 ){
 		score = firstThrow;
+		strike = true;
 		}
-		else {
+		else if (strike == true){
 		score = firstThrow + secondThrow;
 		}
 		return score;

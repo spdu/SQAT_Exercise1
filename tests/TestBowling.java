@@ -51,7 +51,7 @@ public class TestBowling {
 
 	}
 	@Test
-	public void testGame_10frames() {
+	public void testGame_10frames_strike() {
 	BowlingGame game = new BowlingGame();
 	Frame frame1 = new Frame(10,0);
 	 game.addFrame(frame1);
