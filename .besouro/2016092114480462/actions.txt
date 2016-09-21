@@ -14,3 +14,6 @@ UnitTestSessionAction 1474459645239 TestBowling.java OK
 EditAction 1474459673929 TestBowling.java 197 1 2 1
 CompilationAction 1474459675909 TestBowling.java
 EditAction 1474459785222 TestBowling.java 221 1 2 1
+UnitTestCaseAction 1474459787535 TestBowling.java OK
+UnitTestSessionAction 1474459787535 TestBowling.java OK
+EditAction 1474459791895 TestBowling.java 221 1 2 1
