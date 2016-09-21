@@ -39,14 +39,16 @@ public class BowlingGame {
 			
 			}
 			
-
+			if (spare){
+				score += frames.get(i).getFirstThrow();
+				spare = false;
+			}
 			
 			if (frames.get(i).isSpare()){
 				score += 10;
 				counter++;
 				spare = true;
 			}
-			
 			else {
 			counter = 0;
 			score += frames.get(i).score();
