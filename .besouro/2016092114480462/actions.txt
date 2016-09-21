@@ -165,3 +165,6 @@ EditAction 1474463473352 TestBowling.java 1858 4 49 5
 RefactoringAction 1474463479922 TestBowling.java ADD void testGame_10frames_strike()/2 METHOD
 EditAction 1474463551432 Frame.java 830 6 8 0
 EditAction 1474463706984 BowlingGame.java 1182 4 5 0
+RefactoringAction 1474463718954 TestBowling.java RENAME testGame_10frames_strike()/2=>void testGame_10frames_s() METHOD
+RefactoringAction 1474463719964 TestBowling.java RENAME testGame_10frames_s()=>void testGame_10frames_spare() METHOD
+EditAction 1474463737724 TestBowling.java 2594 5 71 6
