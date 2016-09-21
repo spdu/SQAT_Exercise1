@@ -162,3 +162,5 @@ EditAction 1474463457349 BowlingGame.java 1014 4 5 0
 UnitTestCaseAction 1474463461092 TestBowling.java FAIL
 UnitTestSessionAction 1474463461092 TestBowling.java FAIL
 EditAction 1474463473352 TestBowling.java 1858 4 49 5
+RefactoringAction 1474463479922 TestBowling.java ADD void testGame_10frames_strike()/2 METHOD
+EditAction 1474463551432 Frame.java 830 6 8 0
