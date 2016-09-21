@@ -35,20 +35,18 @@ public class BowlingGame {
 				counter++;
 				for (int j = 0; j < counter; j++) {
 					score += frames.get(i-j).score();
-					
 				}
 			
 			}
-			if (spare){
-				score += frames.get(i).getFirstThrow();
-				spare = false;
-			}
+			
+
+			
 			if (frames.get(i).isSpare()){
 				score += 10;
 				counter++;
 				spare = true;
-
 			}
+			
 			else {
 			counter = 0;
 			score += frames.get(i).score();
