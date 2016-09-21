@@ -20,7 +20,7 @@ public class TestBowling {
 	 
 	 
 	 
-	 assertEquals(9, frame.score());
+	 assertEquals(8, frame.score());
 
 	}
 
