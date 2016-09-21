@@ -18,14 +18,14 @@ public class Frame {
 
 	//returns the score of a single frame
 	public int score(){
-		boolean strike = false;
 		int score = 0;
+		boolean strike;
 		if (firstThrow == 10 ){
 		score = firstThrow;
 		strike = true;
 		}
 		else if (strike == true){
-		score = firstThrow + secondThrow;
+		score = firstThrow* + secondThrow;
 		}
 		else {
 		score = firstThrow + secondThrow;
