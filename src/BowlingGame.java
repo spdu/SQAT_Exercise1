@@ -44,7 +44,7 @@ public class BowlingGame {
 				for (int j = 0; j < counter; j++) {
 					score += frames.get(i).getFirstThrow();
 				}*/
-			}
+			
 			else {
 			counter = 0;
 			score += frames.get(i).score();
