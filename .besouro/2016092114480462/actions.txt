@@ -62,3 +62,8 @@ CompilationAction 1474460061962 TestBowling.java
 CompilationAction 1474460307786 TestBowling.java
 CompilationAction 1474460307996 TestBowling.java
 EditAction 1474460403467 BowlingGame.java 649 4 1 0
+CompilationAction 1474460405557 TestBowling.java
+CompilationAction 1474460562920 TestBowling.java
+CompilationAction 1474460563140 TestBowling.java
+CompilationAction 1474460694432 TestBowling.java
+EditAction 1474460699172 BowlingGame.java 708 4 1 0
