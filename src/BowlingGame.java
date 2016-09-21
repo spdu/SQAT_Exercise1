@@ -42,7 +42,7 @@ public class BowlingGame {
 				score += 10;
 				counter++;
 				for (int j = 0; j < counter; j++) {
-					score += frames.get(i+1).getFirstThrow();
+					score += frames.get(i).getFirstThrow();
 				}
 			}
 			else {
