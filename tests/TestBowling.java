@@ -13,5 +13,15 @@ public class TestBowling {
 	 assertEquals(2, frame.getFirstThrow());
 	 assertEquals(4, frame.getSecondThrow());
 	}
+	
+	@Test
+	public void testScore() {
+	 Frame frame = new Frame(2,6);
+	 
+	 
+	 
+	 assertEquals(8, frame.score()());
+
+	}
 
 }
