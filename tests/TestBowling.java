@@ -8,6 +8,9 @@ public class TestBowling {
 	public void test() {
 	 Frame frame = new Frame(2,4);
 	 
+	 
+	 
+	 assertEquals();
 	}
 
 }

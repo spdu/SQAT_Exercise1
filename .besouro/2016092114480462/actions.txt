@@ -9,3 +9,6 @@ FileOpenedAction 1474459493217 TestBowling.java 165 1 1 0
 EditAction 1474459602737 TestBowling.java 170 1 1 0
 CompilationAction 1474459642587 BowlingGame.java
 EditAction 1474459642677 Frame.java 701 6 8 0
+UnitTestCaseAction 1474459645239 TestBowling.java OK
+UnitTestSessionAction 1474459645239 TestBowling.java OK
+EditAction 1474459673929 TestBowling.java 197 1 2 1
