@@ -30,9 +30,10 @@ public class BowlingGame {
 		for (int i=0; i < frames.size(); i++)
 		{
 			if (frames.get(i).isStrike()){
+				score += 10;
 				for (int j = 0; j < counter; j++) {
 					counter++;
-					score += 10 + frames.get(i-j).score();
+					score += frames.get(i-j).score();
 					
 				}
 			
