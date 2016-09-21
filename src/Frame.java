@@ -20,8 +20,8 @@ public class Frame {
 	public int score(){
 		int score = firstThrow + secondThrow;
 		return score;
+	
 	}
-}
 
 	//returns whether the frame is a strike or not
 	public boolean isStrike(){
