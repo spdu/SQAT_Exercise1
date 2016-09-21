@@ -8,13 +8,12 @@ public class BowlingGame {
 	//a bowling game is made of (at least) 10 frames
 	private List<Frame> frames = new ArrayList<Frame>();
 	private Frame bonus;
-	
+	//frames.add(Frame)
 	public BowlingGame(){}
 	
 	// adds a frame to the game
 	public void addFrame(Frame frame) throws BowlingException{
-		Frame frame = new Frame();
-		frame(2,4);
+	
 		//to be implemented
 	}
 	
