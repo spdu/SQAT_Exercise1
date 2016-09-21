@@ -39,7 +39,7 @@ public class BowlingGame {
 			}
 			else {
 			counter = 0;
-			//score += frames.get(i).score();
+			score += frames.get(i).score();
 			}
 		}
 		
