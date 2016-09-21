@@ -1,2 +1,9 @@
 FileOpenedAction 1474458484296 BowlingException.java 58 0 0 0
 EditAction 1474459105711 BowlingGame.java 696 4 3 0
+CompilationAction 1474459107754 BowlingGame.java
+CompilationAction 1474459107754 BowlingGame.java
+CompilationAction 1474459107754 BowlingGame.java
+RefactoringAction 1474459451487 BowlingGame.java ADD void Frame(int, int) METHOD
+RefactoringAction 1474459454947 BowlingGame.java REMOVE Frame(int, int) METHOD
+FileOpenedAction 1474459493217 TestBowling.java 165 1 1 0
+EditAction 1474459602737 TestBowling.java 170 1 1 0
