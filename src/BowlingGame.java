@@ -12,12 +12,15 @@ public class BowlingGame {
 	public BowlingGame(){}
 	
 	// adds a frame to the game
-	public void addFrame(Frame frame){
+	public void addFrame(Frame frame) throws BowlingException{
+		Frame frame = new Frame();
+		frame(2,4);
 		//to be implemented
 	}
 	
 	// Sets the bonus throws at the end of the game
 	public void setBonus(int firstThrow, int secondThrow) {
+		
 		//to be implemented
 	}
 	
