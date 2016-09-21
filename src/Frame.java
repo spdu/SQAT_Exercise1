@@ -27,6 +27,9 @@ public class Frame {
 		else if (strike == true){
 		score = firstThrow + secondThrow;
 		}
+		else {
+		score = firstThrow + secondThrow;
+		}
 		return score;
 	}
 
