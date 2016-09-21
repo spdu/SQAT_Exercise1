@@ -10,7 +10,8 @@ public class TestBowling {
 	 
 	 
 	 
-	 assertEquals(2,5, frame.getFirstThrow());
+	 assertEquals(2, frame.getFirstThrow());
+	 assertEquals(4, frame.getSecondThrow());
 	}
 
 }
