@@ -52,3 +52,7 @@ EditAction 1474459950459 TestBowling.java 390 2 5 3
 UnitTestCaseAction 1474459954592 TestBowling.java FAIL
 UnitTestSessionAction 1474459954592 TestBowling.java FAIL
 EditAction 1474459958352 TestBowling.java 390 2 5 3
+RefactoringAction 1474459967292 TestBowling.java ADD void testScore()/2 METHOD
+RefactoringAction 1474459974802 TestBowling.java RENAME testScore()/2=>void test()/2 METHOD
+RefactoringAction 1474459980312 TestBowling.java RENAME test()/2=>void testGame_10frames() METHOD
+EditAction 1474460053942 TestBowling.java 849 3 17 4

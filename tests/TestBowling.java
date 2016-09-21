@@ -23,5 +23,22 @@ public class TestBowling {
 	 assertEquals(8, frame.score());
 
 	}
+	@Test
+	public void testGame_10frames() {
+	BowlingGame Game = new BowlingGame();
+	 Frame frame = new Frame(2,6);
+	 Frame frame = new Frame(2,6);
+	 Frame frame = new Frame(2,6);
+	 Frame frame = new Frame(2,6);
+	 Frame frame = new Frame(2,6);
+	 Frame frame = new Frame(2,6);
+	 Frame frame = new Frame(2,6);
+	 Frame frame = new Frame(2,6);
+	 Frame frame = new Frame(2,6);
+	 Frame frame = new Frame(2,6);
+	 
+	 assertEquals(8, frame.score());
+
+	}
 
 }
