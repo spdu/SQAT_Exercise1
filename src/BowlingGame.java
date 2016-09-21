@@ -27,6 +27,7 @@ public class BowlingGame {
 	public int score(){
 		int score = 0;
 		int counter = 0;
+		boolean spare = false;
 		for (int i=0; i < frames.size(); i++)
 		{
 			if (frames.get(i).isStrike()){
@@ -38,12 +39,14 @@ public class BowlingGame {
 				}
 			
 			}
+			if (spare){
+				score += frames.get(i).getFirstThrow();
+			}
 			if (frames.get(i).isSpare()){
 				score += 10;
 				counter++;
-				for (int j = 0; j < counter; j++) {
-					score += frames.get(i).getFirstThrow();
-				}
+				spare = true;
+
 			}
 			else {
 			counter = 0;
