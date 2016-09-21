@@ -19,8 +19,9 @@ public class Frame {
 	//returns the score of a single frame
 	public int score(){
 		int score = 0;
-		boolean strike;
-		if (firstThrow == 10 ){
+		boolean strike = true;
+		for (int frame = 0; frame < )
+	
 		score = firstThrow;
 		strike = true;
 		}
@@ -29,15 +30,20 @@ public class Frame {
 		}
 		else {
 		score = firstThrow + secondThrow;
+		strike = false;
 		}
 		return score;
 	}
+}
 
 	//returns whether the frame is a strike or not
 	public boolean isStrike(){
-		
+		if (firstThrow == 10){
 		//to be implemented
-		return false;
+		return true;
+		}
+		else return false;
+		
 	}
 	
 	//return whether a frame is a spare or not
