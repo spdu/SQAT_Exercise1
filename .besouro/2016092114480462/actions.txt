@@ -110,3 +110,17 @@ CompilationAction 1474461846604 Frame.java
 UnitTestCaseAction 1474461879057 TestBowling.java FAIL
 UnitTestSessionAction 1474461879057 TestBowling.java FAIL
 EditAction 1474462624671 Frame.java 984 6 6 0
+CompilationAction 1474462626841 Frame.java
+CompilationAction 1474462626841 Frame.java
+CompilationAction 1474462626841 Frame.java
+CompilationAction 1474462626851 Frame.java
+CompilationAction 1474462626851 Frame.java
+CompilationAction 1474462626851 Frame.java
+CompilationAction 1474462765123 Frame.java
+CompilationAction 1474462765123 Frame.java
+CompilationAction 1474462765303 Frame.java
+CompilationAction 1474462765323 Frame.java
+CompilationAction 1474462768913 Frame.java
+CompilationAction 1474462768923 Frame.java
+CompilationAction 1474462769103 Frame.java
+EditAction 1474462773973 BowlingGame.java 938 4 5 0
