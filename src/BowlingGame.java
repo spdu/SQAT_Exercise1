@@ -27,7 +27,6 @@ public class BowlingGame {
 	public int score(){
 		int score = 0;
 		int counter = 0;
-		boolean spare = false;
 		for (int i=0; i < frames.size(); i++)
 		{
 			if (frames.get(i).isStrike()){
