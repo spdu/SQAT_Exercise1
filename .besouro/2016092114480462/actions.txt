@@ -42,3 +42,10 @@ UnitTestSessionAction 1474459901584 TestBowling.java OK
 RefactoringAction 1474459918666 TestBowling.java ADD void test()/2 METHOD
 RefactoringAction 1474459922686 TestBowling.java RENAME test()/2=>void testScore() METHOD
 EditAction 1474459939436 TestBowling.java 392 2 3 2
+CompilationAction 1474459941486 TestBowling.java
+CompilationAction 1474459941496 TestBowling.java
+CompilationAction 1474459943946 TestBowling.java
+CompilationAction 1474459943956 TestBowling.java
+UnitTestCaseAction 1474459945799 TestBowling.java OK
+UnitTestSessionAction 1474459945799 TestBowling.java OK
+EditAction 1474459950459 TestBowling.java 390 2 5 3
